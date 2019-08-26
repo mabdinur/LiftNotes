@@ -1,4 +1,5 @@
 {
-  "name": "LiftNotes",
-  "displayName": "LiftNotes"
+  "expo": {
+    "sdkVersion": "21.0.0"
+  }
 }
